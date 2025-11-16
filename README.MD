@@ -17,6 +17,11 @@ URL: https://wine-quality-js-1c268c3878e6.herokuapp.com/
 - Dockerfile
 - winequality-red.csv
 
-`Jupyter Notebook on GitHub`
+# Deliverables
+Problem 1
+`Jeremiah - Snipes - 900835251 - ANA680 - Assignment 5 Build, Train, Test, and Deploy ML Project on AWS Cloud .ipynb`
 `Heroku URL (above)`
-`Supporting project files`
+
+Problem 2A without Container
+
+Problem 2B With Container
