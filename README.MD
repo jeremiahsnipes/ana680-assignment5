@@ -17,6 +17,6 @@ URL: https://wine-quality-js-1c268c3878e6.herokuapp.com/
 - Dockerfile
 - winequality-red.csv
 
-'Jupyter Notebook on GitHub'
-'Heroku URL (above)'
-'Supporting project files'
+`Jupyter Notebook on GitHub`
+`Heroku URL (above)`
+`Supporting project files`
