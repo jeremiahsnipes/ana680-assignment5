@@ -3,10 +3,6 @@ Problem 1: ML Model + Heroku Deployment
 Student: Jeremiah Snipes
 Course: ANA680 – Machine Learning Deployment
 
-🌐 Live App (Heroku)
-
-URL: https://wine-quality-js-1c268c3878e6.herokuapp.com/
-
 📄 Included Files
 
 - Assignment5.ipynb – Full notebook (EDA, model training, evaluation)
@@ -20,7 +16,7 @@ URL: https://wine-quality-js-1c268c3878e6.herokuapp.com/
 # Deliverables
 ## Problem 1
 - `Notebook for Problem 1.ipynb`
-- `Heroku URL (above)`
+- `Heroku URL: https://wine-quality-js-1c268c3878e6.herokuapp.com/`
 
 ## Problem 2A without Container
 - `Notebook With Problem 2A and 2B.ipynb`
