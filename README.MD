@@ -5,7 +5,8 @@ Course: ANA680 – Machine Learning Deployment
 
 📄 Included Files
 
-- Assignment5.ipynb – Full notebook (EDA, model training, evaluation)
+- Notebook for Problem 1.ipynb
+- Notebook With Problem 2A and 2B.ipynb
 - app.py – Flask API
 - model.pkl – Trained model
 - requirements.txt
